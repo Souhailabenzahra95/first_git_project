@@ -5,5 +5,11 @@ public class HelloCydeo {
         System.out.println(
                 "Hello Cydeo! \n I hope everything is doing well"
         );
+        System.out.println(
+                "Hello Cydeo! \n I hope everything is doing well"
+        );
+        System.out.println(
+                "Hello Cydeo! \n I hope everything is doing well"
+        );
     }
 }
